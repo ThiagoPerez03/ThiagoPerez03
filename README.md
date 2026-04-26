@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" src="https://cdn.dribbble.com/userupload/20184184/file/original-c2193af810bc5845b4f8e016d8ab05b8.gif" alt="Developer Illustration" width="350"/>
+<img align="right" src="./original-c2193af810bc5845b4f8e016d8ab05b8.gif" alt="Developer Illustration" width="350"/>
 
 ### 💫 About me
 
