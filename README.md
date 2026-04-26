@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" src="https://imgur.com/a/muzoiX3" alt="Developer Illustration" width="350"/>
+<img align="right" src="https://i.imgur.com/muzoiX3.gif" alt="Developer Illustration" width="350"/>
 
 ### 💫 About me
 
