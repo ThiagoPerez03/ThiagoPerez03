@@ -1,28 +1,28 @@
-[cite_start]<h1 align="center">Hi, I'm Thiago Daniel Perez [cite: 1] 👋</h1>
-
-<div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZQeO9d3sJkMtE3hDC5MmhtzStiaW1X_H4pw&s" alt="Developer Illustration" width="400"/>
-</div>
+<h1 align="center">Hi, I'm Thiago Daniel Perez 👋</h1>
 
 ---
 
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZQeO9d3sJkMtE3hDC5MmhtzStiaW1X_H4pw&s" alt="Developer Illustration" width="350"/>
+
 ### 💫 About me
 
-* [cite_start]I'm an advanced Systems Engineering student at UTN FRLP [cite: 5, 10][cite_start], currently based in La Plata[cite: 3].
-* [cite_start]I work as an IT Trainee at Tecpetrol [cite: 19][cite_start], where I specialize in process optimization and Low-Code solutions using Power Platform[cite: 5].
-* [cite_start]I'm passionate about designing and implementing automated workflows (RPA) to increase operational efficiency[cite: 6].
-* [cite_start]I bring a strong analytical capacity to my work and enjoy leading technical training initiatives in corporate environments[cite: 7].
+* I'm an advanced Systems Engineering student at UTN FRLP, currently based in La Plata.
+* I work as an IT Trainee at Tecpetrol, where I specialize in process optimization and Low-Code solutions using Power Platform.
+* I'm passionate about designing and implementing automated workflows (RPA) to increase operational efficiency.
+* I bring a strong analytical capacity to my work and enjoy leading technical training initiatives in corporate environments.
 
 ### 🚀 I'm currently learning / working on:
 
-* [cite_start]Developing customized solutions and automating workflows with Power Automate and Power Apps[cite: 20, 21].
-* [cite_start]Leading the Citizen Developers program by coordinating technical training across different company areas[cite: 22].
-* [cite_start]Participating in the LINES Research Lab, focusing on Web Scraping to centralize university courses[cite: 46, 47, 48].
-* [cite_start]Building full-stack web applications like "CanchaYa" (sports court reservations) [cite: 59, 60] [cite_start]and "COMPRI" (text compression analysis)[cite: 54, 55].
+* Developing customized solutions and automating workflows with Power Automate and Power Apps.
+* Leading the Citizen Developers program by coordinating technical training across different company areas.
+* Participating in the LINES Research Lab, focusing on Web Scraping to centralize university courses.
+* Building full-stack web applications like "CanchaYa" (sports court reservations) and "COMPRI" (text compression analysis).
+
+<br clear="both"/>
 
 ### </> My Skills Include
 
-[cite_start]I have experience working with the following languages and tools[cite: 24, 25, 29, 31, 32, 33, 34, 35, 37, 38, 39]:
+I have experience working with the following languages and tools:
 
 **Languages**
 
@@ -52,7 +52,7 @@ In my free time, I'm a huge Apple enthusiast 🍏. I love diving deep into the c
 
 ### 📬 Let's connect:
 
-* [cite_start]✉️ thiagodanielperez1@gmail.com [cite: 3]
+* ✉️ thiagodanielperez1@gmail.com
 * 💼 [LinkedIn](https://www.linkedin.com/in/thiago-perez-7513a632b/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_URL_DE_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-perez-7513a632b/)
