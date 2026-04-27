@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" src="./original-c2193af810bc5845b4f8e016d8ab05b8.gif" alt="Developer Illustration" width="350"/>
+<img align="right" width="350" alt="Developer Illustration" src="https://github.com/user-attachments/assets/9e3b7e1e-1b86-4cd2-82a0-33bf716b4752" />
 
 ### 💫 About me
 
